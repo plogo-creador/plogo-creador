@@ -3,4 +3,4 @@
 Explorando soluciones innovadoras con **Inteligencia Artificial** y **Big Data**.  
 Compartiendo proyectos, aprendizajes y experimentos de IA.  
 
-✨ Siempre aprendiendo y creando con datos y algoritmos.
+✨ Siempre aprendiendo y creando
